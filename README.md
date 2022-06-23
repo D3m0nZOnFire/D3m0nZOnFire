@@ -13,6 +13,6 @@
 
 <h2>Mes réseaux :</h2>
 <p>GitHub : </p>
-<a href="https://github.com/IceFirst"><img src="https://user-images.githubusercontent.com/59802223/175082572-647977c6-7042-4f25-9cab-d63c141942ce.png" width="50"></a>
+<a href="https://github.com/IceFirst"><img src="https://img.icons8.com/fluency/48/000000/github.png" width="50"></a>
 <p>Discord :</p>
 <a href="https://discord.io/LosD3m0nZ"><img src="https://www.svgrepo.com/show/353655/discord-icon.svg" width="50"></a>
