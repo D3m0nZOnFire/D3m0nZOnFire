@@ -1,3 +1,4 @@
+<a href="https://discord.io/LosD3m0nZ"><img alt="Discord Status" src="https://discord.com/api/guilds/971853567658950676/widget.png"></a>
 <h1 align="center">😈 | D3m0nZ | 😈</h1>
 
 <ul>
