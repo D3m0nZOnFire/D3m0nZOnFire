@@ -1,6 +1,6 @@
 <!--<a href="https://discord.io/LosD3m0nZ"><img alt="Discord Status" src="https://discord.com/api/guilds/971853567658950676/widget.png"></a>-->
-<!--<img src="">-->
-<h1 align="center">😈 | D3m0nZ | 😈</h1>
+<img src="https://media.discordapp.net/attachments/971853569814822930/1004379356430344213/projet_demonz.png">
+<h1 align="center">| D3m0nZ |</h1>
 
 <ul>
   <li>1ère année en informatique au CPLN</li>
@@ -9,7 +9,7 @@
     <li>C#</li>
     <li>Python</li>
     <li>SQl</li>
-    <li>HTML, CSS</li>
+    <li>HTML, CSS, JS, PHP</li>
   </ul>
 </ul>
 
