@@ -3,13 +3,14 @@
 <h1 align="center">| D3m0nZ |</h1>
 
 <ul>
-  <li>1ère année en informatique au CPLN</li>
+  <li>2ère année en informatique au CPNE</li>
   <li>Connaissances en : </li>
   <ul>
     <li>C#</li>
     <li>Python</li>
     <li>SQl</li>
     <li>HTML, CSS, JS, PHP</li>
+    <li>NodeJS</li>
   </ul>
 </ul>
 
