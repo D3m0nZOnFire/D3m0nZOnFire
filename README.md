@@ -1,5 +1,5 @@
 <!--<a href="https://discord.io/LosD3m0nZ"><img alt="Discord Status" src="https://discord.com/api/guilds/971853567658950676/widget.png"></a>-->
-<img src="https://media.discordapp.net/attachments/971853569814822930/1004379356430344213/projet_demonz.png">
+<img src="/imgs/github-header-image.png">
 <h1 align="center">| D3m0nZ |</h1>
 
 <ul>
