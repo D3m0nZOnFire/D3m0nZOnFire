@@ -9,7 +9,7 @@
     <text x="18" y="81" font-size="14" fill="#262626">My own VPS and NAS. Every app runs in Docker</text>
     <text x="18" y="102" font-size="14" fill="#262626">behind Caddy, ships through GitHub Actions</text>
     <text x="18" y="123" font-size="14" fill="#262626">and is reachable over Tailscale.</text>
-    <text x="18" y="153" font-size="13" fill="#a14f00">hosts ivodantas.ch and lnksnp.ch</text>
+    <text x="18" y="153" font-size="13" fill="#a14f00">hosts my website and lnksnp.ch</text>
     <text x="18" y="173" font-size="13" fill="#5f5b55"># linux · docker · caddy · n8n · tailscale</text>
   </g>
 </svg>

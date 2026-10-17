@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/card-dark.svg">
-  <img alt="Ivo Pereira Dantas: Enterprise IT Specialist CFC, BSc Computer Science at HE-Arc, C#/.NET developer at Newis SA, Neuchâtel, Switzerland" src="assets/card-light.svg" width="100%">
+  <img alt="D3m0nZ: Enterprise IT Specialist CFC, BSc Computer Science at HE-Arc, C#/.NET developer at Newis SA, Neuchâtel, Switzerland" src="assets/card-light.svg" width="100%">
 </picture>
 
 Mostly building things for my Linux desktop and my servers.

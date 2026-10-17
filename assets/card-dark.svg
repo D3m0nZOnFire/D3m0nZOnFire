@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="360" viewBox="0 0 960 360" role="img" aria-labelledby="t">
-  <title id="t">Ivo Pereira Dantas: Enterprise IT Specialist CFC, BSc Computer Science at HE-Arc, C#/.NET developer at Newis SA, Neuchâtel, Switzerland</title>
+  <title id="t">D3m0nZ: Enterprise IT Specialist CFC, BSc Computer Science at HE-Arc, C#/.NET developer at Newis SA, Neuchâtel, Switzerland</title>
   <rect x="0.5" y="0.5" width="959" height="359" rx="10" fill="#121212" stroke="#2a2a2a"/>
   <text font-family="ui-monospace, 'DejaVu Sans Mono', Menlo, Consolas, monospace" font-size="13" fill="#d35f5f" xml:space="preserve">
     <tspan x="36" y="32">              :%</tspan>
@@ -23,15 +23,14 @@
     <tspan x="36" y="320">              %</tspan>
   </text>
   <g font-family="ui-monospace, 'DejaVu Sans Mono', Menlo, Consolas, monospace" font-size="15" xml:space="preserve">
-    <text x="380" y="58"><tspan fill="#d35f5f" font-weight="bold">ivo</tspan><tspan fill="#bebebe">@</tspan><tspan fill="#d35f5f" font-weight="bold">dantas</tspan></text>
-    <text x="380" y="80" fill="#8a8a8d">----------</text>
-    <text x="380" y="105"><tspan fill="#e68e0d" font-weight="bold">Name</tspan><tspan x="490" fill="#bebebe">Ivo Pereira Dantas</tspan></text>
-    <text x="380" y="130"><tspan fill="#e68e0d" font-weight="bold">Role</tspan><tspan x="490" fill="#bebebe">Enterprise IT Specialist CFC</tspan></text>
-    <text x="380" y="155"><tspan fill="#e68e0d" font-weight="bold">Study</tspan><tspan x="490" fill="#bebebe">BSc Computer Science @ HE-Arc (60 %)</tspan></text>
-    <text x="380" y="180"><tspan fill="#e68e0d" font-weight="bold">Work</tspan><tspan x="490" fill="#bebebe">C# / .NET developer @ Newis SA (40 %)</tspan></text>
-    <text x="380" y="205"><tspan fill="#e68e0d" font-weight="bold">Location</tspan><tspan x="490" fill="#bebebe">Neuchâtel, Switzerland</tspan></text>
-    <text x="380" y="230"><tspan fill="#e68e0d" font-weight="bold">Languages</tspan><tspan x="490" fill="#bebebe">FR · PT · EN · DE</tspan></text>
-    <text x="380" y="255"><tspan fill="#e68e0d" font-weight="bold">Stack</tspan><tspan x="490" fill="#bebebe">C#/.NET · Node.js · Python · QML · C++ · Docker</tspan></text>
-    <text x="380" y="280"><tspan fill="#e68e0d" font-weight="bold">Desktop</tspan><tspan x="490" fill="#bebebe">Arch Linux + Hyprland (Omarchy)</tspan></text>
+    <text x="380" y="72"><tspan fill="#d35f5f" font-weight="bold">d3m0nz</tspan><tspan fill="#bebebe">@</tspan><tspan fill="#d35f5f" font-weight="bold">omarchy</tspan></text>
+    <text x="380" y="94" fill="#8a8a8d">--------------</text>
+    <text x="380" y="119"><tspan fill="#e68e0d" font-weight="bold">Role</tspan><tspan x="490" fill="#bebebe">Enterprise IT Specialist CFC</tspan></text>
+    <text x="380" y="144"><tspan fill="#e68e0d" font-weight="bold">Study</tspan><tspan x="490" fill="#bebebe">BSc Computer Science @ HE-Arc (60 %)</tspan></text>
+    <text x="380" y="169"><tspan fill="#e68e0d" font-weight="bold">Work</tspan><tspan x="490" fill="#bebebe">C# / .NET developer @ Newis SA (40 %)</tspan></text>
+    <text x="380" y="194"><tspan fill="#e68e0d" font-weight="bold">Location</tspan><tspan x="490" fill="#bebebe">Neuchâtel, Switzerland</tspan></text>
+    <text x="380" y="219"><tspan fill="#e68e0d" font-weight="bold">Languages</tspan><tspan x="490" fill="#bebebe">FR · PT · EN · DE</tspan></text>
+    <text x="380" y="244"><tspan fill="#e68e0d" font-weight="bold">Stack</tspan><tspan x="490" fill="#bebebe">C#/.NET · Node.js · Python · QML · C++ · Docker</tspan></text>
+    <text x="380" y="269"><tspan fill="#e68e0d" font-weight="bold">Desktop</tspan><tspan x="490" fill="#bebebe">Arch Linux + Hyprland (Omarchy)</tspan></text>
   </g>
 </svg>
