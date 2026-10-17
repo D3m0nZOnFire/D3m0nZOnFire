@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="360" viewBox="0 0 960 360" role="img" aria-labelledby="t">
-  <title id="t">D3m0nZ: Enterprise IT Specialist CFC, BSc Computer Science at HE-Arc, C#/.NET developer at Newis SA, Neuchâtel, Switzerland</title>
-  <rect x="0.5" y="0.5" width="959" height="359" rx="10" fill="#f3efe6" stroke="#ddd5c4"/>
-  <text font-family="ui-monospace, 'DejaVu Sans Mono', Menlo, Consolas, monospace" font-size="13" fill="#a32626" xml:space="preserve">
+<svg xmlns="http://www.w3.org/2000/svg" width="968" height="368" viewBox="-4 -4 968 368" role="img" aria-labelledby="t">
+  <title id="t">D3m0nZ: Enterprise IT Specialist CFC, BSc Computer Science at HE-Arc, C#/.NET developer, Neuchâtel, Switzerland</title>
+  <rect x="0.5" y="0.5" width="959" height="359" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
+  <text font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" fill="#d1242f" xml:space="preserve">
     <tspan x="36" y="32">              :%</tspan>
     <tspan x="36" y="48">              :@%</tspan>
     <tspan x="36" y="64">              :@@@             ::</tspan>
@@ -22,15 +22,15 @@
     <tspan x="36" y="304">              @@</tspan>
     <tspan x="36" y="320">              %</tspan>
   </text>
-  <g font-family="ui-monospace, 'DejaVu Sans Mono', Menlo, Consolas, monospace" font-size="15" xml:space="preserve">
-    <text x="380" y="72"><tspan fill="#a32626" font-weight="bold">d3m0nz</tspan><tspan fill="#262626">@</tspan><tspan fill="#a32626" font-weight="bold">omarchy</tspan></text>
-    <text x="380" y="94" fill="#5f5b55">--------------</text>
-    <text x="380" y="119"><tspan fill="#a14f00" font-weight="bold">Role</tspan><tspan x="490" fill="#262626">Enterprise IT Specialist CFC</tspan></text>
-    <text x="380" y="144"><tspan fill="#a14f00" font-weight="bold">Study</tspan><tspan x="490" fill="#262626">BSc Computer Science @ HE-Arc (60 %)</tspan></text>
-    <text x="380" y="169"><tspan fill="#a14f00" font-weight="bold">Work</tspan><tspan x="490" fill="#262626">C# / .NET developer @ Newis SA (40 %)</tspan></text>
-    <text x="380" y="194"><tspan fill="#a14f00" font-weight="bold">Location</tspan><tspan x="490" fill="#262626">Neuchâtel, Switzerland</tspan></text>
-    <text x="380" y="219"><tspan fill="#a14f00" font-weight="bold">Languages</tspan><tspan x="490" fill="#262626">FR · PT · EN · DE</tspan></text>
-    <text x="380" y="244"><tspan fill="#a14f00" font-weight="bold">Stack</tspan><tspan x="490" fill="#262626">C#/.NET · Node.js · Python · QML · C++ · Docker</tspan></text>
-    <text x="380" y="269"><tspan fill="#a14f00" font-weight="bold">Desktop</tspan><tspan x="490" fill="#262626">Arch Linux + Hyprland (Omarchy)</tspan></text>
+  <g font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" xml:space="preserve">
+    <text x="380" y="72"><tspan fill="#d1242f" font-weight="bold">d3m0nz</tspan><tspan fill="#1f2328">@</tspan><tspan fill="#d1242f" font-weight="bold">arch</tspan></text>
+    <text x="380" y="94" fill="#59636e">-----------</text>
+    <text x="380" y="119"><tspan fill="#0969da" font-weight="bold">Role</tspan><tspan x="490" fill="#1f2328">Enterprise IT Specialist CFC</tspan></text>
+    <text x="380" y="144"><tspan fill="#0969da" font-weight="bold">Study</tspan><tspan x="490" fill="#1f2328">BSc Computer Science @ HE-Arc (60 %)</tspan></text>
+    <text x="380" y="169"><tspan fill="#0969da" font-weight="bold">Work</tspan><tspan x="490" fill="#1f2328">C# / .NET developer (40 %)</tspan></text>
+    <text x="380" y="194"><tspan fill="#0969da" font-weight="bold">Location</tspan><tspan x="490" fill="#1f2328">Neuchâtel, Switzerland</tspan></text>
+    <text x="380" y="219"><tspan fill="#0969da" font-weight="bold">Languages</tspan><tspan x="490" fill="#1f2328">FR · PT · EN · DE</tspan></text>
+    <text x="380" y="244"><tspan fill="#0969da" font-weight="bold">Stack</tspan><tspan x="490" fill="#1f2328">C#/.NET · Node.js · Python · QML · C++ · Docker</tspan></text>
+    <text x="380" y="269"><tspan fill="#0969da" font-weight="bold">Desktop</tspan><tspan x="490" fill="#1f2328">Arch Linux + Hyprland</tspan></text>
   </g>
 </svg>
