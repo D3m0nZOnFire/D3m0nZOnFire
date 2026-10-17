@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="204" viewBox="0 0 460 204" role="img" aria-labelledby="t">
+  <title id="t">mousectl: Configure gaming mice on Linux without vendor software: DPI, 8K polling, lighting, battery. One CLI + TUI for three mouse models.</title>
+  <rect x="0.5" y="0.5" width="459" height="203" rx="10" fill="#f3efe6" stroke="#ddd5c4"/>
+  <path d="M0.5 32 V10.5 a10 10 0 0 1 10 -10 H449.5 a10 10 0 0 1 10 10 V32 Z" fill="#ebe5d8"/>
+  <line x1="0.5" y1="32" x2="459.5" y2="32" stroke="#ddd5c4"/>
+  <g font-family="ui-monospace, 'DejaVu Sans Mono', Menlo, Consolas, monospace" xml:space="preserve">
+    <text x="18" y="21" font-size="13" fill="#5f5b55">~/<tspan fill="#0d0d0d" font-weight="bold">mousectl</tspan></text>
+    <text x="18" y="60" font-size="14"><tspan fill="#a32626" font-weight="bold">$</tspan><tspan fill="#5f5b55"> cat README.md</tspan></text>
+    <text x="18" y="81" font-size="14" fill="#262626">Configure gaming mice on Linux without vendor</text>
+    <text x="18" y="102" font-size="14" fill="#262626">software: DPI, 8K polling, lighting, battery.</text>
+    <text x="18" y="123" font-size="14" fill="#262626">One CLI + TUI for three mouse models.</text>
+    <text x="18" y="153" font-size="13" fill="#a14f00">zero dependencies · tested drivers · CI</text>
+    <text x="18" y="173" font-size="13" fill="#5f5b55"># python · hidraw · curses</text>
+  </g>
+</svg>
