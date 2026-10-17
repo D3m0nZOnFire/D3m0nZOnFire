@@ -23,8 +23,8 @@
     <tspan x="36" y="320">              %</tspan>
   </text>
   <g font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" xml:space="preserve">
-    <text x="380" y="72"><tspan fill="#f85149" font-weight="bold">d3m0nz</tspan><tspan fill="#f0f6fc">@</tspan><tspan fill="#f85149" font-weight="bold">arch</tspan></text>
-    <text x="380" y="94" fill="#9198a1">-----------</text>
+    <text x="380" y="72" fill="#f85149" font-weight="bold">d3m0nz</text>
+    <text x="380" y="94" fill="#9198a1">------</text>
     <text x="380" y="119"><tspan fill="#4493f8" font-weight="bold">Role</tspan><tspan x="490" fill="#f0f6fc">Enterprise IT Specialist CFC</tspan></text>
     <text x="380" y="144"><tspan fill="#4493f8" font-weight="bold">Study</tspan><tspan x="490" fill="#f0f6fc">BSc Computer Science @ HE-Arc (60 %)</tspan></text>
     <text x="380" y="169"><tspan fill="#4493f8" font-weight="bold">Work</tspan><tspan x="490" fill="#f0f6fc">C# / .NET developer (40 %)</tspan></text>
