@@ -3,11 +3,9 @@
   <img alt="D3m0nZ: Enterprise IT Specialist CFC, BSc Computer Science at HE-Arc, C#/.NET developer, Neuchâtel, Switzerland" src="assets/card-light.svg" width="100%">
 </picture>
 
-I'm an Enterprise IT Specialist CFC, now doing a BSc in Computer Science at HE-Arc (60 %) while working as a C#/.NET developer (40 %) on **SchemaSuite**, a WPF software suite for managing technical networks. That code is proprietary. What's here is what I build in my own time: tools for my Linux desktop, self-hosted web apps and the servers they run on.
+At work I build **SchemaSuite** (C#/.NET, proprietary). Here: my Linux desktop tools and self-hosted apps, like LinkSnip, live at **[lnksnp.ch](https://lnksnp.ch)**.
 
-LinkSnip runs in production: try it at **[lnksnp.ch](https://lnksnp.ch)**.
-
-**[ivodantas.ch](https://ivodantas.ch)** (CV, background and contact) · **[LinkedIn](https://linkedin.ivodantas.ch)**
+**[ivodantas.ch](https://ivodantas.ch)** · **[LinkedIn](https://linkedin.ivodantas.ch)**
 
 ## Projects
 
